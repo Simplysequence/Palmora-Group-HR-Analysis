@@ -29,24 +29,32 @@ In the initial phase of Data Cleaning and Preparation, we perform the following 
 -    Data Loading and Inspection
 -    Data Cleaning and Formatting (Duplicates removed, categories standardized)
 -    Included additional columns needed for more analysis.
+-    Columns for employees who did not indicate their gender was assigned as "Anonymous"
+-    Employees without Salary structure was taken out.
+-    Departments with "NULL" was taken out as well.
 
 ### Exploratory Data Analysis
 ---
 Below is a summary of the analysis for the tasks given. Each task’s methodology and output are condensed for clarity, with their individual charts;
  
-  1. Gender Distribution in the Organization
+ 1. Gender Distribution in the Organization
      - Objective: Determine the gender distribution overall, by region, and by department.
      - Overall Gender Distribution By Region:
-
+        ![1](https://github.com/user-attachments/assets/2f0b569a-1bb5-4eaa-82fb-8125f9093469)
 
      - Overall Gender Distribution By Department:
+        ![4](https://github.com/user-attachments/assets/b263a373-d8e2-4df8-a7b2-60809ca332cb)
 
-Insight: from the chart above it is clearly indicated that departments such as Maintenance, Production) are heavily male-dominated, this could indicate occupational segregation, contributing to gender inequality perceptions. Management should focus on diversifying hiring in these departments.
 
+Insight: from the chart above it is clearly indicated that departments such as Product Management, Legal and Accounting are heavily male-dominated, this could indicate occupational segregation, contributing to gender inequality perceptions. I would Suggest that Management should focus on diversifying hiring in these departments.
 
-  
-  1. 
-    
+ 2. Insights on Ratings Based on Gender
+    - Objective: Analyze performance ratings by gender to identify potential biases
+    - Distribution of Performance Ratings by Gender
+    ![7](https://github.com/user-attachments/assets/837541ed-1618-4aa8-b5d2-6d151beba0be)
+    - Distribution of Performance Ratings of Gender By Department
+    <img width="1234" height="697" alt="9" src="https://github.com/user-attachments/assets/cee4b8df-c6b8-4393-b6ec-3fb5934b87ec" />
+
 ### Data Analysis
 ---
 This is where we include some basic llines of codes or Queries or even some of the DAX expressions used during your analysis;
