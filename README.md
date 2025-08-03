@@ -1,5 +1,8 @@
 # Palmora-Group-HR-Analysis
 
+This is where i carried out my Second project while studying at The Incubator Hub. I was tasked to analyze Palmora Group's HR data and generate insights that the management team will need to address Gender-related issues within the organization and its Regions
+
+---
 ### Table of Content
 -    [Project Preview](#Project-preview)
 -    [Data Sources](#Data-sources)
