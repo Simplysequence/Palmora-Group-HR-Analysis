@@ -1,12 +1,12 @@
 # Palmora-Group-HR-Analysis
 
 ### Table of Content
--    [Project Preview](###Project-preview)
--    [Data Sources](###Data-sources)
--    [Tools Used](###Tools-Used)
--    [Data Cleaning and Preparation](###Data-Cleaning-and-Preparation)
--    [Exploratory Data Analysis](###Exploratory-data-analysis)
--    [Recommendations](###Recommendations)
+-    [Project Preview](#Project-preview)
+-    [Data Sources](#Data-sources)
+-    [Tools Used](#Tools-Used)
+-    [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
+-    [Exploratory Data Analysis](#Exploratory-data-analysis)
+-    [Recommendations](#Recommendations)
 
 ### Project Overview
 ---
