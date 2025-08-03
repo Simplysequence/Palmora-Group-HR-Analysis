@@ -6,7 +6,8 @@
 -    [Tools Used](#Tools-Used)
 -    [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
 -    [Exploratory Data Analysis](#Exploratory-data-analysis)
--    [Recommendations](#Recommendations)
+-    [Recommendations for Management](#Recommendations-for-Management)
+-    [Conclusion](#Conclusion)
 
 ### Project Overview
 ---
