@@ -1,12 +1,12 @@
 # Palmora-Group-HR-Analysis
 
 ### Table of Content
--    [Project Preview](#Project-preview)
--    [Data Sources](#Data-sources)
--    [Tools Used](#Tools-Used)
--    [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
--    [Exploratory Data Analysis](#Exploratory-data-analysis)
--    [Data Analysis](#Data-analysis)
+-    [Project Preview](###Project-preview)
+-    [Data Sources](###Data-sources)
+-    [Tools Used](###Tools-Used)
+-    [Data Cleaning and Preparation](###Data-Cleaning-and-Preparation)
+-    [Exploratory Data Analysis](###Exploratory-data-analysis)
+-    [Recommendations](###Recommendations)
 
 ### Project Overview
 ---
@@ -73,16 +73,21 @@ Insights: The Gender pay gap exists particularly in male-dominated departments. 
 4. Minimum Salary Regulation($90,000)   -
 
    - Objective: Assess compliance with the $90,000 minimum salary regulation and analyze Salary distribution
-   - Salary Bands by Region and Gender
-### Data Analysis
----
-This is where we include some basic llines of codes or Queries or even some of the DAX expressions used during your analysis;
+   - Salary Regulation Bands by Gender
 
-```  SQL
-Select * From A, B, C
-Where A> 15
-```
-### Results/Findings
+<img width="794" height="575" alt="10" src="https://github.com/user-attachments/assets/c3f3cf91-4d38-4d70-8108-0ccc4a48314c" />
 
+Insights: Palmora Group does not meet the $90,000 minimum salary regulation for most employees. Management must prioritize salary adjustments, starting with lower-paid employees and assess the financial impact of compliance.
+
+5. Bonus Payment Allocation
+
+   - Objective: Calculate bonus payments based performance ratings, total compensation(Salary + Bonus) and aggregate payoiuts by region and company-wide.
+   - Total Bonus payouts by Region, with a company-wide total.
+  
+![6](https://github.com/user-attachments/assets/ea0f6a44-6a69-41fb-a384-b26454a490f7)
+
+Insights: Bonus Payments amplify existing salary disparities if tied to performance ratings, especially if males receive higher ratings. Management should ensure equitable bonus distribution and consider flat bonuses for lower-paid employees ro address the minimum salary gap.
 
 ### Recommendations
+    1. Managemnt should implement targeted hiring and training programs to increase female representation in male-dominated departments
+    2. 
